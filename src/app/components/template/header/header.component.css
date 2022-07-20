@@ -1,0 +1,13 @@
+img{
+    height: 3rem;
+}
+
+.header{
+    justify-content: center;
+    height: 12%;
+}
+
+h1{
+    padding-left: 0.2em;
+    font-size: 1.5rem;
+}
